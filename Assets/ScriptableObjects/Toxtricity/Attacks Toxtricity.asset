@@ -15,13 +15,13 @@ MonoBehaviour:
   attacks:
   - minDamage: 50
     maxDamage: 100
-    attackTime: 0
+    attackTime: 2
     animationName: Attack
-    soundName: Toxtricity
+    soundName: Toxtricity_attack
     particlesPrefab: {fileID: 0}
   - minDamage: 50
     maxDamage: 100
-    attackTime: 0
+    attackTime: 2
     animationName: Attack_1
-    soundName: Toxtricity
+    soundName: Toxtricity_attack1
     particlesPrefab: {fileID: 0}

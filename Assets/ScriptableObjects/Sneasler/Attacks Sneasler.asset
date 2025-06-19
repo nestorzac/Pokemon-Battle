@@ -15,7 +15,13 @@ MonoBehaviour:
   attacks:
   - minDamage: 50
     maxDamage: 100
-    attackTime: 0
+    attackTime: 2
     animationName: Attack
-    soundName: Sneasler
+    soundName: Sneasler_attack
+    particlesPrefab: {fileID: 0}
+  - minDamage: 50
+    maxDamage: 100
+    attackTime: 2
+    animationName: Anticipation
+    soundName: Sneasler_attack
     particlesPrefab: {fileID: 0}
