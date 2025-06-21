@@ -15,14 +15,16 @@ public class Attacks : ScriptableObject
         return attacks[randomIndex];
     }
 }
- 
+
 [System.Serializable]
 public class Attack
 {
+    public string attackName;
     public float minDamage;
     public float maxDamage;
     public float attackTime;
     public string animationName;
     public string soundName;
+    public GameObject hiParticlesPrefab;
     public GameObject particlesPrefab;
 }
