@@ -10,26 +10,26 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ca1786d99996f824eb042505ccaa1793, type: 3}
-  m_Name: Attacks Toxtricity
+  m_Name: AttacksDracozolt
   m_EditorClassIdentifier: 
   attacks:
-  - attackName: Toque1
-    minDamage: 30
-    maxDamage: 80
-    attackTime: 2
-    animationName: Attack
-    soundName: Toxtricity_attack
-    hiParticlesPrefab: {fileID: 5880797563127281583, guid: 265d3a5ba69981a4698ceabcedf368b0,
-      type: 3}
-    particlesPrefab: {fileID: 9027514048236820045, guid: effb650189dc5714e9e9801b1cfb3991,
-      type: 3}
-  - attackName: Toque2
+  - attackName: Colaso
     minDamage: 30
     maxDamage: 80
     attackTime: 2
     animationName: Attack_1
-    soundName: Toxtricity_attack1
-    hiParticlesPrefab: {fileID: 5880797563127281583, guid: 265d3a5ba69981a4698ceabcedf368b0,
+    soundName: Dracozolt_Attack1
+    hiParticlesPrefab: {fileID: 4021103657954561961, guid: 5c755f9bc5253ea418e919994537dcc7,
+      type: 3}
+    particlesPrefab: {fileID: 2708598583397607911, guid: 6398d43fe79ea0140913dc5530c646af,
+      type: 3}
+  - attackName: Fuego
+    minDamage: 30
+    maxDamage: 80
+    attackTime: 2
+    animationName: Attack_2
+    soundName: Dracozolt_Attack2
+    hiParticlesPrefab: {fileID: 2504214343621411470, guid: 3ed0d324122d7b24eaec75c55c74aafc,
       type: 3}
     particlesPrefab: {fileID: 9027514048236820045, guid: effb650189dc5714e9e9801b1cfb3991,
       type: 3}
