@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: fb1b7fa43b056b64b88b346fb6a6408b
+  productGUID: 00000000000000000000000000000000
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -972,6 +972,7 @@ PlayerSettings:
   syncCapabilities: 0
   platformCapabilities:
     WindowsStoreApps:
+      CodeGeneration: False
       OfflineMapsManagement: False
       HumanInterfaceDevice: False
       Location: False
@@ -984,7 +985,6 @@ PlayerSettings:
       InternetClientServer: False
       VideosLibrary: False
       Objects3D: False
-      InternetClient: True
       RemoteSystem: False
       BlockedChatMessages: False
       PhoneCall: False
@@ -1006,7 +1006,7 @@ PlayerSettings:
       RecordedCallsFolder: False
       Contacts: False
       Proximity: False
-      CodeGeneration: False
+      InternetClient: True
       BackgroundMediaPlayback: False
       EnterpriseAuthentication: False
   metroTargetDeviceFamilies:
@@ -1074,7 +1074,7 @@ PlayerSettings:
   cloudProjectId: 00fc78b7-eb51-49c6-b2b3-554c448d653a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Pokemon Battle 2025-06-11_19-17-31
+  projectName: 
   organizationId: uteca
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
