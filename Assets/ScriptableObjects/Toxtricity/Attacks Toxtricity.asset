@@ -13,22 +13,22 @@ MonoBehaviour:
   m_Name: Attacks Toxtricity
   m_EditorClassIdentifier: 
   attacks:
-  - attackName: Toque1
-    minDamage: 30
-    maxDamage: 80
-    attackTime: 2
-    animationName: Attack
-    soundName: Toxtricity_attack
-    hiParticlesPrefab: {fileID: 5880797563127281583, guid: 265d3a5ba69981a4698ceabcedf368b0,
-      type: 3}
-    particlesPrefab: {fileID: 9027514048236820045, guid: effb650189dc5714e9e9801b1cfb3991,
-      type: 3}
   - attackName: Toque2
     minDamage: 30
     maxDamage: 80
     attackTime: 2
     animationName: Attack_1
     soundName: Toxtricity_attack1
+    hiParticlesPrefab: {fileID: 5880797563127281583, guid: 265d3a5ba69981a4698ceabcedf368b0,
+      type: 3}
+    particlesPrefab: {fileID: 9027514048236820045, guid: effb650189dc5714e9e9801b1cfb3991,
+      type: 3}
+  - attackName: Toque1
+    minDamage: 30
+    maxDamage: 80
+    attackTime: 2
+    animationName: Attack
+    soundName: Toxtricity_attack
     hiParticlesPrefab: {fileID: 5880797563127281583, guid: 265d3a5ba69981a4698ceabcedf368b0,
       type: 3}
     particlesPrefab: {fileID: 9027514048236820045, guid: effb650189dc5714e9e9801b1cfb3991,
